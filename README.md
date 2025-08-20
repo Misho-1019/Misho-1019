@@ -8,6 +8,7 @@
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Framework-Express-lightgrey?logo=express)
