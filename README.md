@@ -1,16 +1,20 @@
 # Hi there, I'm Mihail 👋
 
 💻 Passionate **JavaScript programmer** from Sofia, Bulgaria.  
-🎓 Completed the full **JavaScript Path at SoftUni**.  
+🎓 Completed the full **JavaScript Path at SoftUni** (except Angular).  
 🚀 Skilled in building modern, scalable web apps with a strong focus on **React, Node.js, Express, and databases**.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, PostgreSQL  
-- **Other:** REST APIs, Authentication, Cloud Deployment  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+![Express.js](https://img.shields.io/badge/Framework-Express-lightgrey?logo=express)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+![HTML5](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
 
 ---
 
@@ -25,16 +29,21 @@
 
 ---
 
-## 🚀 Featured Projects
-Here are some of the projects I’ve worked on:
+## 📈 Activity Graph
+![Mikail's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Misho-1019&theme=react-dark)
 
+---
+
+## 📌 Featured Projects
 - *(Coming soon...)*
 
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: **mikailtorres99@gmail.com**  
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mikailtorres99@gmail.com)  
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Misho-1019&color=blueviolet&style=for-the-badge)
 
 ⭐️ *Thanks for visiting my profile — feel free to explore my repositories!*
