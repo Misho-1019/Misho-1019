@@ -36,7 +36,13 @@
 ---
 
 ## 📌 Featured Projects
-- *(Coming soon...)*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Misho-1019&repo=Law-Firm-Portal&theme=radical)](https://github.com/Misho-1019/Law-Firm-Portal)
+
+🔹 **Law Firm Portal** – full-stack web app for a solo law practice  
+🔹 Public website + Admin dashboard + Client portal  
+🔹 Tech: React, Node.js, Express, MongoDB, Firebase, JWT  
+🔗 Live demo: https://law-firm-portal.web.app
 
 ---
 
