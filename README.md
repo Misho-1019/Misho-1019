@@ -63,12 +63,36 @@ If you’re hiring or collaborating on an interesting project, feel free to reac
 
 ## 📌 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Misho-1019&repo=Law-Firm-Portal&theme=radical)](https://github.com/Misho-1019/Law-Firm-Portal)
+### 🔹 Law Firm Portal  
+Full-stack web application for a solo law practice.
 
-🔹 **Law Firm Portal** – full-stack web app for a solo law practice  
-🔹 Public website + Admin dashboard + Client portal  
-🔹 Tech: React, Node.js, Express, MongoDB, Firebase, JWT  
-🔗 Live demo: https://law-firm-portal.web.app
+**Features:**  
+- Public website  
+- Admin dashboard  
+- Client portal  
+- Secure JWT authentication  
+- Role-based access control  
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Firebase  
+
+🔗 **Live Demo:** [https://your-frontend-url.web.app](https://law-firm-portal.web.app)  
+📂 **Repository:** https://github.com/Misho-1019/Law-Firm-Portal
+
+### 🔹 Personal Finance Analyzer
+
+Full-stack financial tracking and analytics platform.
+
+**Features:**
+- Income & expense tracking
+- Auto-categorization via keyword rules
+- Monthly financial analytics dashboard
+- Secure JWT authentication with refresh token rotation
+- Multi-tenant user data isolation
+
+**Tech Stack:** React, Node.js, Express, PostgreSQL, Prisma, Neon, Render, Vercel
+
+🔗 **Live Demo:** [https://your-frontend-url.vercel.app](https://personal-finance-analyzer-bice.vercel.app)
+📂 **Repository:** https://github.com/Misho-1019/Personal-Finance-Analyzer
 
 ---
 
