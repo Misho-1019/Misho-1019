@@ -18,6 +18,7 @@ Currently expanding my knowledge in backend scalability, database optimization, 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
+![NextJS](https://img.shields.io/badge/Code-NextJS-green?logo=nextjs)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
